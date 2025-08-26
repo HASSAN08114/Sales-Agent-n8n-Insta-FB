@@ -65,7 +65,8 @@ Sales-Agent-SocialMedia/
 5. Activate the workflow → Your **Sales Agent bot** is live!  
 
 ---
-<img width="1920" height="1080" alt="2025-08-26 (7)" src="https://github.com/user-attachments/assets/f3cc0c4f-3372-457f-b094-1cb70ee06db8" />
+<img width="1460" height="674" alt="2025-08-26 (5)" src="https://github.com/user-attachments/assets/84449976-ebb8-43e5-ab26-8a97ef804e1d" />
+
 
 ## 🛠️ Requirements  
 
